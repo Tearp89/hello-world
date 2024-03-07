@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar los flujos de github
+Me llamo marla, tengo 19 años y estudio ingeniería de software.
